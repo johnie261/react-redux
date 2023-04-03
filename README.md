@@ -1,46 +1,146 @@
-# Getting Started with Create React App and Redux
+<div align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# 📖 Redux Toolikit Tutorial <a name="about-project"></a>
 
-## Available Scripts
+ <a name="about-project"></a>
+<!-- PROJECT DESCRIPTION -->
+This project is a practice to learn Redux Toolkit following the video tutorial from freeCodeCamp : https://youtu.be/bbkBuqC1rU4.
+</div>
 
-In the project directory, you can run:
 
-### `npm start`
+## 🛠 Built With <a name="built-with"></a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Tech Stack <a name="tech-stack"></a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<a href="https://www.w3.org/html/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/></a><a href="https://www.w3schools.com/css/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img align="center" src="https://user-images.githubusercontent.com/103900838/222968100-66b1cdba-dcbe-4047-a88f-3f55ccf983ee.svg" alt="redux" width="60" height="60"/></a>
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" alt="react" width="60" height="60"/></a>
+<a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
+<!-- Features -->
+### Key Features <a name="key-features"></a>
 
-### `npm test`
+<!-- > Describe between 1-3 key features of the application.-->
+- [ ] **Fetch API data**
+- [ ] **Add and reduce items from the cart**
+- [ ] **Clean cart button that opens popup**
+- [ ] **Pop up modal with 2 buttons: one for confirm to clear the cart and other for cancel**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- LIVE DEMO -->
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Live Demo <a name="live-demo"></a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Not available at the moment. 
+Comign soon...
 
-### `npm run eject`
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- GETTING STARTED -->
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 💻 Getting Started <a name="getting-started"></a>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To get a local copy up and running, follow these steps.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<!-- PREREQUISITES -->
 
-## Learn More
+### Prerequisites
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+In order to run this project you need:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [ ] A PC running any operating system like Windows, Linux, or MacOS
+- [ ] An Internet connection
+- [ ] Git installed
+- [ ] Webpack installed
+- [ ] Knowledge of some basic Git commands
+
+<!-- SETUP -->
+
+### Setup
+
+- [ ] Link your PC to GitHub
+- [ ] Clone this repository to your desired folder:
+
+
+```
+git clone https://github.com/rivasbolinga/redux-toolkit.git
+```
+
+- [ ] Open the file in your code editor
+  
+<!-- INSTALL -->
+
+### Install
+
+Install this project with:
+
+```
+npm install
+```
+
+###  Instal linters for React and Redux:
+
+Here the link to install your linters: https://github.com/microverseinc/linters-config
+
+<!-- USAGE -->
+
+### Usage
+To run the project, execute the following command:
+
+```
+npm start
+```
+<!-- RUN TESTS -->
+
+###  Run tests
+
+To run Stylelint and ESLint tests, run the following commands respectively:
+
+```
+npx stylelint "**/*.{css,scss}"
+```
+
+```
+npx eslint "**/*.{js,jsx}"
+```
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+👤 **JOHNIE NJOROGE**
+- GitHub: [github](https://github.com/johnie261)
+- Twitter: [twitter](https://twitter.com/njorogejohnie)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/john-njoroge-19b6a4245/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Own design**
+- [ ] **Responsive**
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+I would like to thank freeCodeCamp for the tutorial https://www.youtube.com/@freecodecamp
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+## ⭐️ Show your support <a name="support"></a>
+
+<!-- > Write a message to encourage readers to support your project -->
+Give a ⭐️ if you like this project!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
